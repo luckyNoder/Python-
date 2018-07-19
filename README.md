@@ -21,5 +21,9 @@ print(r"hello \n world") // 输出  hello\world 所见即所得
 
 #### String
 
+```Python
 1. "hello world"[0:5] //输出 hello
 2. "hello world"[-5:] //输出 world
+```
+
+##### 组
